@@ -16,8 +16,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="I have to Fly"
-        android:textColor="@color/white"
-        android:textSize="58sp"
+        android:textColor="@color/black"
+        android:textSize="48sp"
         android:layout_above="@id/play"
         android:layout_below="@id/highScoreTxt"
         android:layout_centerHorizontal="true">
@@ -26,7 +26,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Play"
-        android:textSize="88sp"
+        android:textSize="48sp"
         android:textColor="@color/white"
         android:layout_centerInParent="true"
         android:id="@+id/play">

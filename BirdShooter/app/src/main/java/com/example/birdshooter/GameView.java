@@ -37,7 +37,7 @@ public class GameView extends SurfaceView implements Runnable{
         background2.x -= 10;
 
         if(background1.x + background1.background.getWidth() < 0) {
-            
+
         }
 
     }
